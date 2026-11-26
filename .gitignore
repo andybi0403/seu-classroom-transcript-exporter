@@ -1,0 +1,27 @@
+/.asr/
+/.vivado-ai/
+/python/
+/python-arm64/
+/python-x86/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+
+# Classroom exports and recordings
+seu_voice_raw.json
+*.docx
+*.srt
+*.vtt
+*.aac
+*.flac
+*.m4a
+*.mkv
+*.mov
+*.mp3
+*.mp4
+*.ogg
+*.opus
+*.wav
+*.webm
